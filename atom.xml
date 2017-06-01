@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-10T04:55:28.000Z</updated>
+  <updated>2017-04-22T08:21:26.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2017/04/05/teach-child/"/>
     <id>http://yoursite.com/2017/04/05/teach-child/</id>
     <published>2017-04-05T10:10:49.000Z</published>
-    <updated>2017-04-10T04:55:28.000Z</updated>
+    <updated>2017-04-22T08:21:26.000Z</updated>
     
     <content type="html"><![CDATA[<h2 id="01-对待热点有哪几种姿态？"><a href="#01-对待热点有哪几种姿态？" class="headerlink" title="01 对待热点有哪几种姿态？"></a>01 对待热点有哪几种姿态？</h2><p>一度被推到微博热搜榜前列的天津大悦城坠童事件，在微博、朋友圈见到不少朋友转发讨论。</p>
 <p>作为严肃认真的终生学习者，我们向来不蹭热点，但这次，我们想从一个不一样的角度来谈谈——作为终身学习者，我们该以一种怎样的姿态去成为一个合格的父母。</p>
@@ -75,6 +75,10 @@
     
     </summary>
     
+      <category term="随想" scheme="http://yoursite.com/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="随想" scheme="http://yoursite.com/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
@@ -83,7 +87,7 @@
     <link href="http://yoursite.com/2017/04/04/hello-world/"/>
     <id>http://yoursite.com/2017/04/04/hello-world/</id>
     <published>2017-04-04T10:28:30.000Z</published>
-    <updated>2017-04-04T10:28:30.000Z</updated>
+    <updated>2017-04-22T08:21:09.000Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -102,6 +106,10 @@
     
     </summary>
     
+      <category term="教程" scheme="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="教程" scheme="http://yoursite.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
